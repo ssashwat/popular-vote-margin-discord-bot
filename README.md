@@ -1,1 +1,1 @@
-# Kalshi-popular-vote-margin-discord-bot
+# Popular-vote-margin-discord-bot
